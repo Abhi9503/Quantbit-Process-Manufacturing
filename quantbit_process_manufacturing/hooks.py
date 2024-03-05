@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "quantbit_process_manufacturing"
 app_title = "Quantbit Process Manufacturing"
 app_publisher = "abhishek shinde"
-app_description = "This is app content manufacturing process"
+app_description = "This app content process manufacturing"
 app_email = "abhishek.shinde@erpdata.in"
 app_license = "MIT"
 

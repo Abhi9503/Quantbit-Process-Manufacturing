@@ -9,7 +9,7 @@ from quantbit_process_manufacturing import __version__ as version
 setup(
 	name="quantbit_process_manufacturing",
 	version=version,
-	description="This is app content manufacturing process",
+	description="This app content process manufacturing",
 	author="abhishek shinde",
 	author_email="abhishek.shinde@erpdata.in",
 	packages=find_packages(),

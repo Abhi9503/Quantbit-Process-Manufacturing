@@ -1,6 +1,6 @@
 ## Quantbit Process Manufacturing
 
-This is app content manufacturing process
+This app content process manufacturing
 
 #### License
 
